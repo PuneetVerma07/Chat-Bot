@@ -158,9 +158,9 @@ Get your Gemini API key from [Google AI Studio](https://aistudio.google.com)
 
 Add a screenshot of the chatbot UI here:
 
-```
+
 ![Chatbot UI](./assets/chatbot.png)
-```
+
 
 ---
 
